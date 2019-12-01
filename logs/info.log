@@ -1,0 +1,15 @@
+[2019-12-01 17:12:20] INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting DatasourceExchageApplication on sqmadeMacBook-Pro.local with PID 9604 (/Volumes/MACDATA/ideaSpace/datasource-exchage/target/classes started by sq.ma in /Volumes/MACDATA/ideaSpace/datasource-exchage)
+[2019-12-01 17:12:20] INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2019-12-01 17:12:22] INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started DatasourceExchageApplication in 1.774 seconds (JVM running for 2.919)
+[2019-12-01 17:12:22] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-1} inited
+[2019-12-01 17:12:22] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-2} inited
+[2019-12-01 17:14:28] INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting DatasourceExchageApplication on sqmadeMacBook-Pro.local with PID 9645 (/Volumes/MACDATA/ideaSpace/datasource-exchage/target/classes started by sq.ma in /Volumes/MACDATA/ideaSpace/datasource-exchage)
+[2019-12-01 17:14:28] INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2019-12-01 17:14:29] INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started DatasourceExchageApplication in 1.9 seconds (JVM running for 3.098)
+[2019-12-01 17:14:29] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-1} inited
+[2019-12-01 17:14:30] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-2} inited
+[2019-12-01 17:15:52] INFO  org.springframework.boot.StartupInfoLogger 55 logStarting - Starting DatasourceExchageApplication on sqmadeMacBook-Pro.local with PID 9669 (/Volumes/MACDATA/ideaSpace/datasource-exchage/target/classes started by sq.ma in /Volumes/MACDATA/ideaSpace/datasource-exchage)
+[2019-12-01 17:15:52] INFO  org.springframework.boot.SpringApplication 651 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2019-12-01 17:15:53] INFO  org.springframework.boot.StartupInfoLogger 61 logStarted - Started DatasourceExchageApplication in 1.774 seconds (JVM running for 2.889)
+[2019-12-01 17:15:53] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-1} inited
+[2019-12-01 17:15:54] INFO  com.alibaba.druid.pool.DruidDataSource 1010 init - {dataSource-2} inited

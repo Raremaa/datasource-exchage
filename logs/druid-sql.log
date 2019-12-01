@@ -1,0 +1,42 @@
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-10001, pstmt-20000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-10001, pstmt-20000} Parameters : [dec, 我是dev数据源来的~]
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-10001, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-10001, pstmt-20000} executed. 5.571334 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-10001, pstmt-20000} closed
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-110001, pstmt-120000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Parameters : [prod, 我是prod数据源来的~]
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-110001, pstmt-120000} executed. 2.815193 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:12:22] DEBUG 134 statementLog - {conn-110001, pstmt-120000} closed
+[2019-12-01 17:14:30] DEBUG 137 statementLog - {conn-10001, pstmt-20000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:14:30] DEBUG 137 statementLog - {conn-10001, pstmt-20000} Parameters : [dec, 我是dev数据源来的~]
+[2019-12-01 17:14:30] DEBUG 137 statementLog - {conn-10001, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:14:30] DEBUG 137 statementLog - {conn-10001, pstmt-20000} executed. 3.529041 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:14:30] DEBUG 137 statementLog - {conn-10001, pstmt-20000} closed
+[2019-12-01 17:14:30] DEBUG 134 statementLog - {conn-110001, pstmt-120000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:14:30] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Parameters : [prod, 我是prod数据源来的~]
+[2019-12-01 17:14:30] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:14:30] DEBUG 134 statementLog - {conn-110001, pstmt-120000} executed. 2.143994 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:14:30] DEBUG 134 statementLog - {conn-110001, pstmt-120000} closed
+[2019-12-01 17:15:54] DEBUG 137 statementLog - {conn-10001, pstmt-20000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:15:54] DEBUG 137 statementLog - {conn-10001, pstmt-20000} Parameters : [dec, 我是dev数据源来的~]
+[2019-12-01 17:15:54] DEBUG 137 statementLog - {conn-10001, pstmt-20000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:15:54] DEBUG 137 statementLog - {conn-10001, pstmt-20000} executed. 3.591844 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:15:54] DEBUG 137 statementLog - {conn-10001, pstmt-20000} closed
+[2019-12-01 17:15:54] DEBUG 134 statementLog - {conn-110001, pstmt-120000} created. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:15:54] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Parameters : [prod, 我是prod数据源来的~]
+[2019-12-01 17:15:54] DEBUG 134 statementLog - {conn-110001, pstmt-120000} Types : [VARCHAR, VARCHAR]
+[2019-12-01 17:15:54] DEBUG 134 statementLog - {conn-110001, pstmt-120000} executed. 2.126765 millis. insert into user (`name`, introduce)
+    values (?, ?)
+[2019-12-01 17:15:54] DEBUG 134 statementLog - {conn-110001, pstmt-120000} closed

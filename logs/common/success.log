@@ -1,0 +1,14 @@
+2019-12-01 16:51:01.010 [main] INFO  c.m.e.DatasourceExchageApplication - Starting DatasourceExchageApplication on sqmadeMacBook-Pro.local with PID 9177 (/Volumes/MACDATA/ideaSpace/datasource-exchage/target/classes started by sq.ma in /Volumes/MACDATA/ideaSpace/datasource-exchage)
+2019-12-01 16:51:01.012 [main] INFO  c.m.e.DatasourceExchageApplication - No active profile set, falling back to default profiles: default
+2019-12-01 16:51:02.287 [main] INFO  c.m.e.DatasourceExchageApplication - Started DatasourceExchageApplication in 1.667 seconds (JVM running for 2.875)
+2019-12-01 16:51:02.358 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-12-01 16:51:02.703 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited
+2019-12-01 16:51:02.728 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+2019-12-01 16:51:02.728 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2019-12-01 16:54:19.533 [main] INFO  c.m.e.DatasourceExchageApplication - Starting DatasourceExchageApplication on sqmadeMacBook-Pro.local with PID 9250 (/Volumes/MACDATA/ideaSpace/datasource-exchage/target/classes started by sq.ma in /Volumes/MACDATA/ideaSpace/datasource-exchage)
+2019-12-01 16:54:19.612 [main] INFO  c.m.e.DatasourceExchageApplication - No active profile set, falling back to default profiles: default
+2019-12-01 16:54:21.214 [main] INFO  c.m.e.DatasourceExchageApplication - Started DatasourceExchageApplication in 2.16 seconds (JVM running for 3.165)
+2019-12-01 16:54:21.274 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2019-12-01 16:54:21.629 [main] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-2} inited
+2019-12-01 16:54:21.654 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-2} closed
+2019-12-01 16:54:21.655 [SpringContextShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
