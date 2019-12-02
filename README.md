@@ -11,7 +11,7 @@
 - 这个注解用来选择使用的数据源
 - 它应该被用于需要用到dataSource的地方
 - 与事务注解`@Transactional`不冲突，AOP里解析注解时已经配置了解析顺序
-- 仅支持`com.wuyuan.industry.service`下的类的方法使用，否则需要在`com.wuyuan.industry.aop.DataSourceAOP`中配置切入点
+- 仅支持`com.masaiqi.exchage.service`下的类的方法使用，否则需要在`com.masaiqi.exchage.config.DataSourceAOP`中配置切入点
 
 ## 切忌不要直接使用`DataSourceContextHolder`切换数据源
 - 这个类理论上也可以切换数据源，但是与事务注解`@Transactional`冲突，默认先执行事务注解，会导致数据源切换失败
