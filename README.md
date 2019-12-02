@@ -15,3 +15,7 @@
 
 ## 切忌不要直接使用`DataSourceContextHolder`切换数据源
 - 这个类理论上也可以切换数据源，但是与事务注解`@Transactional`冲突，默认先执行事务注解，会导致数据源切换失败
+
+## 联系我一起讨论
+- [个人博客](https://www.masaiqi.com)
+- E-mail：masaiqi.com@gmail.com
